@@ -192,3 +192,16 @@ No presente diagrama temos a definição das classes com seus respectivos atribu
 Nesse sentido, as classes foram devidamente estabelecidas e receberam atributos específicos que as distinguem umas das outras, de acordo com suas próprias características, o que facilitará pelo sistema o reconhecimento de quem o está acessando, manuseando e demandando suas funções. Também foram determinados os métodos que definem o comportamento de cada classe ao serem demandadas pelo sistema exatamente para que a resposta ao usuário ocorra de maneira satisfatória.
 
 Ademais, compulsório salientar o relacionamento estabelecido entre as classes. Parte importante deste diagrama, uma vez que o relacionamento entre as classes constituí entre elas determinado grau de dependência e que por si justificam a existência do próprio sistema, logo, o relacionamento havido entre as classes, seja uma associação ou composição, delimita não somente a hierarquia entre as classes, como também o nível de acesso e também as funções que a mesma irá exercer dentro do sistema, tornando-se possível assim, auferir sua efetividade, a escalabilidade, a segurança e a iteração do sistema com os usuários.
+
+
+
+
+
+![1](https://github.com/SenacGrupo21/PI/assets/170267950/1d7e8e7e-7cb2-44cd-b693-305317fc9ee1)
+![2](https://github.com/SenacGrupo21/PI/assets/170267950/a793beb2-30be-49fb-be9f-c3f1d0692f0d)
+![3](https://github.com/SenacGrupo21/PI/assets/170267950/2c461243-a53b-4b6f-8c07-83bdc4f3917e)
+![4](https://github.com/SenacGrupo21/PI/assets/170267950/92553c78-da55-40a6-8fa8-cb096cd57b2f)
+![5](https://github.com/SenacGrupo21/PI/assets/170267950/e1ecb9a1-081d-4cfe-846b-48ddbb2d823e)
+![6](https://github.com/SenacGrupo21/PI/assets/170267950/b3ee8853-23b0-4181-87ca-7c6612def4d5)
+![7](https://github.com/SenacGrupo21/PI/assets/170267950/465ee8c9-292a-48c1-b839-c59e376384bc)
+![8](https://github.com/SenacGrupo21/PI/assets/170267950/58b0b910-6f48-44c9-accc-a964839a7026)
